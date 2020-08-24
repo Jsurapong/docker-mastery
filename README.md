@@ -13,3 +13,10 @@ https://www.bretfisher.com/courses
 My other DevOps and Docker resources are at https://www.bretfisher.com/docker
 
 Feel free to create issues or PRs if you find a problem with examples in this repo!
+
+// GENERATED ROOT PASSWORD: wax8dabuu4ohshahWier5ohCha0xiego
+
+
+
+# My Docker hub
+https://hub.docker.com/u/iboss19
